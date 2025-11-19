@@ -1,0 +1,6 @@
+---- Daily Calorie Record ----
+bf : 500.00 cal
+lunch : 700.00 cal
+dinner : 350.00 cal
+Total Calories: 1550.00
+Average Calories: 516.67
